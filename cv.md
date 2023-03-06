@@ -28,3 +28,7 @@ function trim(str, size) {
 ```
 ## My projects
 Kotan Discord Bot: [GitHub](https://github.com/derHerrMannelig/Kotan-Discord-Bot), [Replit](https://replit.com/@derHerrMannelig/Kotan-Discord-Bot)
+## Education
+State University of Intellectual Technologies and Communications (formerly Odesa National Telecommunications Academy) — Odesa, Ukraine:
+- Bachelor's degree: Sep 2017 — Jun 2021, 125 Cybersecurity;
+- Master's degree: Sep 2021 — Dec 2022, 125 Cybersecurity.
