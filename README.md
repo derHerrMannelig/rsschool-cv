@@ -1,1 +1,1 @@
-# rsschool-cv
+https://derHerrMannelig.github.io/rsschool-cv/cv
