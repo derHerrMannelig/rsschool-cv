@@ -32,3 +32,5 @@ Kotan Discord Bot: [GitHub](https://github.com/derHerrMannelig/Kotan-Discord-Bot
 State University of Intellectual Technologies and Communications (formerly Odesa National Telecommunications Academy) — Odesa, Ukraine:
 - Bachelor's degree: Sep 2017 — Jun 2021, 125 Cybersecurity;
 - Master's degree: Sep 2021 — Dec 2022, 125 Cybersecurity.
+## Certifications
+Cambridge English: First (FCE), B2 — issued Aug 2019, credential ID — [196UA0150584](https://drive.google.com/file/d/1GZyU9eudT2fOXC7H6eXlrPhAnck5RpUJ/view)
