@@ -24,5 +24,7 @@ function trim(str, size) {
   } else {
     return (str.slice(0, size - 3) + '...');
   }
-};
+}
 ```
+## My projects
+Kotan Discord Bot: [GitHub](https://github.com/derHerrMannelig/Kotan-Discord-Bot), [Replit](https://replit.com/@derHerrMannelig/Kotan-Discord-Bot)
