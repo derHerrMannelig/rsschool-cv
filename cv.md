@@ -12,7 +12,6 @@ My journey as a programmer started at my university, ONAT (currently SUITT/SUITC
 - JS
 - HTML
 - CSS
-- Markdown
 ## Code sample 
 Codewars: [Trimming a string (7 kyu)](https://www.codewars.com/kata/563fb342f47611dae800003c)
 ```javascript
